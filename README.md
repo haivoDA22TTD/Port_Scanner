@@ -20,8 +20,8 @@ Không cần cài thêm thư viện ngoài (chạy bằng thư viện chuẩn c�
 Clone repository hoặc tải file `.py` về máy:
 
 ```bash
-git clone https://github.com/tenban/python-port-scanner.git
-cd port_scanner
+git clone https://github.com/haivodDA22TTD/Port-Scanner.git
+cd Port_Scanner
 ```
 ## 🐧 Linux (Ubuntu, Debian, etc.)
   ```bash
@@ -36,6 +36,5 @@ cd port_scanner
   ```
 ## 🪟 Windows
   ```bash
-      cd port_scanner
       python port_scanner.py
   ```
