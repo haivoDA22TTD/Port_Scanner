@@ -36,6 +36,6 @@ cd port_scanner
   ```
 ## 🪟 Windows
   ```bash
-      cd đường_dẫn_đến_thư_mục
+      cd port_scanner
       python port_scanner.py
   ```
